@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goodness-Chukwudi
 - 👀 I’m interested in Backend Development and Node Js
-- 🌱 I’m currently learning React and Asp.Net
+- 🌱 I’m currently learning Asp.Net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on ibechechukwudi@gmail.com
 
