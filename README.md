@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Goodness-Chukwudi
-- 👀 I’m interested in Backend Development and Node Js
+- 👀 I’m interested in Full Stack Software Development and JavaScript
 - 🌱 I’m currently learning Asp.Net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on ibechechukwudi@gmail.com
