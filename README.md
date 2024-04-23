@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chukwudi Ibeche
 - 👀 I’m interested in building amazing software solutions.
 - 👀 I'm a Full Stack Software Engineer and currently focuses on JavaScript and the technologies in it's ecosystem.
-- 🌱 I’m also proficient with C# and .net
+- 🌱 I’m also proficient with C# and asp.net
 - 💞️ I’m looking to collaborate
 - 📫 You can reach me on ibechechukwudi@gmail.com
 
