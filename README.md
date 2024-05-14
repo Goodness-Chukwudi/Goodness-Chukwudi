@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chukwudi Ibeche
 - 👀 I’m interested in building innovative software solutions.
 - 🌱 My tech stack consist of Javascript/Typescript, Node.js, C#, ASP.NET Core, React, Angular and others
-- 💞️ I’m looking to collaborate
+- 💞️ I’m looking forward to exciting collaborations
 - 📫 You can reach me on ibechechukwudi@gmail.com
 
 <!---
